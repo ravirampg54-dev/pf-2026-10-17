@@ -1,2 +1,3 @@
-# pf-2026-10-17
-Repository created for today
+# Java
+
+This repository contains a simple Java Maven project initialized by Copilot.
